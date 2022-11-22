@@ -1,0 +1,21 @@
+.item-container {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+.image {
+  width: 300px;
+  height: 200px;
+}
+.name {
+  font-size: 35px;
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+  font-size: 24px;
+}
